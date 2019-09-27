@@ -5,14 +5,14 @@
   <!-- nodes -->
 
 <MAP TIMEOUT="" MODE="STANDALONE">
-  <COMMENT></COMMENT>
+  <COMMENT>Check Comment</COMMENT>
 </MAP>
 
 <MAP TIMEOUT="" MODE="STANDALONE">
-  <COMMENT></COMMENT>
+  <COMMENT>test map</COMMENT>
 </MAP>
 
 <BRANCH TIMEOUT="">
-  <COMMENT></COMMENT>
+  <COMMENT>find branch value</COMMENT>
 </BRANCH>
 </FLOW>
