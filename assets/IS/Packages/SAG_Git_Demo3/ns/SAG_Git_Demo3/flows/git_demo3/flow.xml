@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <FLOW VERSION="3.0" CLEANUP="true">
+  <COMMENT>Check Comment</COMMENT>
 
   <!-- nodes -->
 
@@ -15,4 +16,16 @@
 <BRANCH TIMEOUT="">
   <COMMENT>find branch value</COMMENT>
 </BRANCH>
+
+<LOOP TIMEOUT="">
+  <COMMENT></COMMENT>
+</LOOP>
+
+<RETRY TIMEOUT="" COUNT="" BACK-OFF="" LOOP-ON="FAILURE">
+  <COMMENT></COMMENT>
+</RETRY>
+
+<MAP TIMEOUT="" MODE="STANDALONE">
+  <COMMENT></COMMENT>
+</MAP>
 </FLOW>
